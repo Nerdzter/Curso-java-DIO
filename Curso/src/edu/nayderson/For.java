@@ -12,13 +12,13 @@ public class For {
          */
 
          System.out.println("Contando Carneirinhos até dormir...");
+     
          for(int carneiro = 1; carneiro <= 20; carneiro++){
             
             System.out.println(carneiro);
          }
          System.out.println("A mimir...");
     }
-
-    
+ 
     
 }
